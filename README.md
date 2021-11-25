@@ -7,7 +7,8 @@
   + jhonsilvakrammer@gmail.com
   + u20181b177@upc.edu.pe
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDonJON&layout=compact&langs_count=5)](https://github.com/IDonJon/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDonJon&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDonJon&layout=compact&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 IDonJon/IDonJon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
