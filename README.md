@@ -8,8 +8,8 @@
   + u20181b177@upc.edu.pe
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDonJon&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDonJon&layout=compact&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDonJon&layout=compact&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!---
 IDonJon/IDonJon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
