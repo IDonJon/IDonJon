@@ -7,6 +7,8 @@
   + jhonsilvakrammer@gmail.com
   + u20181b177@upc.edu.pe
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDonJON&layout=compact)](https://github.com/IDonJon/github-readme-stats)
+
 <!---
 IDonJon/IDonJon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
